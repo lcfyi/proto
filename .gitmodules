@@ -1,0 +1,3 @@
+[submodule "lib/PublishQueueAsyncRK"]
+	path = lib/PublishQueueAsyncRK
+	url = https://github.com/rickkas7/PublishQueueAsyncRK.git
