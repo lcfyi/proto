@@ -1,3 +1,6 @@
 [submodule "lib/PublishQueueAsyncRK"]
 	path = lib/PublishQueueAsyncRK
 	url = https://github.com/rickkas7/PublishQueueAsyncRK.git
+[submodule "lib/ECOTRONS-RS232-telemetry"]
+	path = lib/ECOTRONS-RS232-telemetry
+	url = https://github.com/lcfyi/ECOTRONS-RS232-telemetry.git
